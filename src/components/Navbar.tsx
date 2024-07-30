@@ -19,3 +19,5 @@ export default function Navbar() {
     </div>
   );
 }
+
+//navbar__link  ye kia h? kya nazar a rha h  kaha define kia h isko knsi class h bhai ye?
