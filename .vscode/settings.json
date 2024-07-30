@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ]
+}
